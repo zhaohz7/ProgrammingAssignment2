@@ -22,4 +22,4 @@ cacheSolve(cached_matrix)
 4. if there's a cached inverse stored, then retrieve the inverse without calculation, then
 print message "getting cached inverse matrix".
 
-Thanks for your time!
+Thanks for your time and have a good day!
