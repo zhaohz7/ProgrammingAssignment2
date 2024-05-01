@@ -1,4 +1,8 @@
 makeCacheMatrix <- function(x = matrix()) {
+    #initialize a novel 'cached matrix' object and has four inner functions: set, get,
+    #set_inverse, and get_inverse. Return a list object.
+    #Usage:
+    #
     x_inverse <- NULL
     set <- function(y) {
         x <<- y
